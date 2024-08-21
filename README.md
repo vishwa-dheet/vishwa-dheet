@@ -26,4 +26,5 @@ Feel free to reach out if you have any questions about these or need assistance 
 
 Thanks for dropping by! Let's explore and innovate together! 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/{chill.vishu}/count.svg)
+## 👀 Views Counter
+![](https://komarev.com/ghpvc/?username=chill-vishu&style=for-the-badge)
