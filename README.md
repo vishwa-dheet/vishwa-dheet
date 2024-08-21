@@ -25,3 +25,5 @@ Feel free to reach out if you have any questions about these or need assistance 
 - Personal Website: [https://chill-vishu.github.io/vishwjeet/](https://chill-vishu.github.io/vishwjeet/)
 
 Thanks for dropping by! Let's explore and innovate together! 🚀
+
+![Visitor Count](https://profile-counter.glitch.me/{chill.vishu}/count.svg)
