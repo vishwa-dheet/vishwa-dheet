@@ -64,7 +64,7 @@ Here’s a breakdown of the skills and tools I’m proficient with:
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://in.linkedin.com/in/vishwjeet27)
-[![Personal Website](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=flat-square)](https://chill-vishu.github.io/vishwjeet/)
+[![Personal Website](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=flat-square)](https://vishwjeet27.github.io/vishwjeet/)
 
 Thanks for stopping by! Let’s collaborate and create something amazing together! 🚀
 
