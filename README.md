@@ -50,14 +50,14 @@ Here’s a breakdown of the skills and tools I’m proficient with:
 
 ## 📊 GitHub Stats
 
-![Vishwjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chill-vishu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chill-vishu&layout=compact&theme=radical)
+![Vishwjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwjeet27&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjeet27&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Recent GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chill-vishu&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwjeet27&theme=radical)
 
 ---
 
